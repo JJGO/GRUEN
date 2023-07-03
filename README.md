@@ -4,6 +4,11 @@
 
 This repo is the GRUEN metric implementation of [GRUEN for Evaluating Linguistic Quality of Generated Text](https://arxiv.org/pdf/2010.02498.pdf) (Findings of EMNLP 2020). 
 
+## Installation
+
+```shell
+pip install git+https://github.com/JJGO/GRUEN.git 
+```
 
 ## Table of Contents
 - [Introduction](#Introduction)
